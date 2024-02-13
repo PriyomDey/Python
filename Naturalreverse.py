@@ -8,6 +8,6 @@
     
 #  print(i)
 
-n=1
+n=int(input("Enter the total no. of natural nos. to be reversed: "))
 for i in range(n,0,-1):
     print(i)
